@@ -4,7 +4,7 @@ This script is used to recursively remove all Windows Media Center metadata and 
 
 ## **Notes**
 Make sure your backup/syncronization software is set to ignore the following files so they don't come back after running the script:
-*
-*
-*
-*
+*  1
+*  2
+*  3
+*  4
